@@ -1,0 +1,11 @@
+E:\Proyectos\Repositorios\Data between two forms\Data between two forms\bin\Debug\Data between two forms.exe.config
+E:\Proyectos\Repositorios\Data between two forms\Data between two forms\bin\Debug\Data between two forms.exe
+E:\Proyectos\Repositorios\Data between two forms\Data between two forms\bin\Debug\Data between two forms.pdb
+E:\Proyectos\Repositorios\Data between two forms\Data between two forms\obj\Debug\Data between two forms.csprojAssemblyReference.cache
+E:\Proyectos\Repositorios\Data between two forms\Data between two forms\obj\Debug\Data_between_two_forms.Form1.resources
+E:\Proyectos\Repositorios\Data between two forms\Data between two forms\obj\Debug\Data_between_two_forms.Form2.resources
+E:\Proyectos\Repositorios\Data between two forms\Data between two forms\obj\Debug\Data_between_two_forms.Properties.Resources.resources
+E:\Proyectos\Repositorios\Data between two forms\Data between two forms\obj\Debug\Data between two forms.csproj.GenerateResource.cache
+E:\Proyectos\Repositorios\Data between two forms\Data between two forms\obj\Debug\Data between two forms.csproj.CoreCompileInputs.cache
+E:\Proyectos\Repositorios\Data between two forms\Data between two forms\obj\Debug\Data between two forms.exe
+E:\Proyectos\Repositorios\Data between two forms\Data between two forms\obj\Debug\Data between two forms.pdb
