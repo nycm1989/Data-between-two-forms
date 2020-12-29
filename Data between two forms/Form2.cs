@@ -19,6 +19,7 @@ namespace Data_between_two_forms
 
         private void Form2_Load(object sender, EventArgs e)
         {
+            //Left position
             this.Location = new Point((Screen.PrimaryScreen.Bounds.Width / 2) + 10, (Screen.PrimaryScreen.Bounds.Height / 2) - (this.Height / 2));
         }
 
